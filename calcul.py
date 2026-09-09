@@ -1,4 +1,4 @@
-def moyenne(valeurs):
+depjpdzmoyenne(valeurs):
 	total = 0
 	for i in range(len(valeurs)):
 		total += valeurs[i]
